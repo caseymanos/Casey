@@ -1,0 +1,10 @@
+{
+  "description": "Personal website",
+  "owner": {
+    "username": "caseymanos",
+    "email": "manoscasey@gmail.com"
+  },
+  "records": {
+    "CNAME": "caseymanos.com"
+  }
+}
